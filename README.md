@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pushpavathy
+<h1 align="center">Hi , I'm Pushpavathy
 <h3 align="center">SDET | Automation Tester | Java  | Selenium | API | TestNG </h3>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,8 +18,7 @@
 
 - 👩‍💻 Automation Tester with experience in **Selenium Java** 
 - 🔍 Skilled in **POM Frameworks, TestNG, PyTest, API Testing, SQL**, and **CI/CD**  
-- 🚀 Interested in building scalable automation frameworks & solving complex testing challenges  
-- 🎓 Mentor for QA & Automation learners  
+- 🚀 Interested in building scalable automation frameworks & solving complex testing challenges    
 - 🌱 Currently working on: **Selenium + API Automation**  
 - 💼 Open to roles: **SDET / Automation Test Engineer**
 
@@ -63,6 +62,30 @@
 
 🔗 https://github.com/Pushpavathy/AutomationPractice 
 A full POM-based automation framework using Java, Selenium, TestNG, Extent Reports & Maven.
+## 📊 GitHub Activity & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpavathy&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushpavathy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+
+
+## 📈 Contribution Activity (Recent)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushpavathy&theme=tokyonight" />
+</p>
+
+
+## 🔥 Daily GitHub Activity
+
+- 📌 Actively maintaining **daily GitHub commit streaks**
+- 🧩 Regularly practicing **automation scripts, backend validation, and test frameworks**
+- 🚀 Consistent hands-on learning through **daily commits and small improvements**
+
+
+---
 
 ### 📫 Connect With Me  
 <p>
