@@ -61,7 +61,7 @@
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat)
 
-🔗 https://github.com/LeemaJosephine/SauceDemoProject_POM_TestNG.git  
+🔗 https://github.com/Pushpavathy/AutomationPractice 
 A full POM-based automation framework using Java, Selenium, TestNG, Extent Reports & Maven.
 
 ### 📫 Connect With Me  
