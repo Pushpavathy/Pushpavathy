@@ -17,7 +17,7 @@
 ### 💫 About Me  
 
 - 👩‍💻 Automation Tester with experience in **Selenium Java** 
-- 🔍 Skilled in **POM Frameworks, TestNG, PyTest, API Testing, SQL**, and **CI/CD**  
+- 🔍 Skilled in **POM Frameworks, TestNG, API Testing, SQL**, and **CI/CD**  
 - 🚀 Interested in building scalable automation frameworks & solving complex testing challenges    
 - 🌱 Currently working on: **Selenium + API Automation**  
 - 💼 Open to roles: **SDET / Automation Test Engineer**
